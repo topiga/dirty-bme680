@@ -154,6 +154,7 @@ void app_main(void)
 
 * This driver was heavily inspired and guided by the amazing ESP-IDF I2C tutorials by [**ltkdt**](https://github.com/ltkdt).
 * This driver would be impossible without the official [**Bosch BME680 Datasheet**](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme680-ds001.pdf), which provided all register maps and compensation formulas.
+* This driver would not exist if it wasn't for [Pierre Courbin's](https://github.com/pcourbin) class, so if you use my library, thank him I guess
 
 ## License
 
