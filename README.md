@@ -10,7 +10,7 @@ As the name implies, this library was rapidly developed and is **not heavily tes
 
 It was built for a school project and is not guaranteed to be free of bugs or inaccuracies. It gets the job done for hobbyist projects and provides a clear, understandable code structure based on the datasheet.
 
-Do not use this in a Mars rover, a life-support system, or anything else that might explode. For a production-grade, heavily-tested solution, please refer to the official [Bosch BSEC library](https://www.bosch-sensortec.com/software-tools/software/bsec/).
+Do not use this in a Mars rover, a life-support system, or anything else that might explode. For a production-grade, heavily-tested solution, please refer to the official [Bosch BSEC library](https://github.com/boschsensortec/BSEC-Arduino-library).
 
 ## Features
 
