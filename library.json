@@ -1,6 +1,6 @@
 {
   "name": "dirty-bme680",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A quick and 'dirty' BME680 sensor driver for ESP-IDF. Not heavily tested, but functional for T/H/P/Gas readings.",
   "keywords": [
     "sensor",
