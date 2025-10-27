@@ -1,0 +1,38 @@
+{
+  "name": "dirty-bme680",
+  "version": "1.0.0",
+  "description": "A quick and 'dirty' BME680 sensor driver for ESP-IDF. Not heavily tested, but functional for T/H/P/Gas readings.",
+  "keywords": [
+    "sensor",
+    "bme680",
+    "i2c",
+    "espidf",
+    "esp-idf",
+    "temperature",
+    "humidity",
+    "pressure",
+    "gas",
+    "iaq"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topiga/dirty-bme680.git"
+  },
+  "authors": [
+    {
+      "name": "Topiga",
+      "email": "theo@fortin.fr",
+      "url": "https://topi.ga",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/topiga/dirty-bme680",
+  "dependencies": {},
+  "frameworks": [
+    "espidf"
+  ],
+  "platforms": [
+    "espressif32"
+  ]
+}
